@@ -8,7 +8,7 @@ I've been learning to code since September 2025. I love website design and anima
 
 * 🌍  I'm based in Wisconsin
 * 🖥️  * 🖥️  See my portfolio at [Sam Schill Portfolio 2026](https://sam-portfolio-9ihz.vercel.app/)
-* ✉️  You can contact me at [samuelsch002@gmail.com](mailto:samuelsch002@gmail.com)
+* ✉️  You can contact me at [samschill.dev@gmail.com](mailto:samschill.dev@gmail.com)
 * 🧠  I'm currently learning AI prompting and Full Stack Development
 * 👥  I'm looking to collaborate on open-source and business projects
 
